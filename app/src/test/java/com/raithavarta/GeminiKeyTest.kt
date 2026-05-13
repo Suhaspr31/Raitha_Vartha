@@ -8,7 +8,7 @@ import com.google.ai.client.generativeai.type.content
 class GeminiKeyTest {
     @Test
     fun testApiKey() = runBlocking {
-        val apiKey = "AIzaSyCTiVKCiHPRxpe2cVOrULRrxGTHVLi5iPw"
+        val apiKey = "Your-API-Key"
         val model = GenerativeModel(
             modelName = "gemini-2.5-flash",
             apiKey = apiKey
