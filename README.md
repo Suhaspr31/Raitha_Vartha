@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Raitha Vartha](pictures/home_dashboard.png)
+![Raitha Vartha](pictures/home_dashboard.jpeg)
 
 **AI-Powered Farming Intelligence Platform for Indian Farmers**
 
@@ -49,7 +49,7 @@ Take a photo of any plant leaf or crop, and our intelligent system instantly ana
 
 <div align="center">
 
-![Disease Scanning](pictures/disease_scan_feature.png)
+![Disease Scanning](pictures/disease_scan_feature.jpeg)
 
 _e-Gidha Feature: Scan leaves to detect diseases and get instant solutions_
 
@@ -71,7 +71,7 @@ Access a comprehensive library of curated farming tips:
 
 <div align="center">
 
-![Crop Search](pictures/crop_search_library.png)
+![Crop Search](pictures/crop_search_library.jpeg)
 
 _Sasya Library: Browse and filter farming tips by crop type_
 
@@ -94,7 +94,7 @@ Get accurate, hyperlocal weather data for better farming decisions:
 
 <div align="center">
 
-![Live Weather](pictures/live_weather_display.png)
+![Live Weather](pictures/live_weather_display.jpeg)
 
 _Real-time Weather: Comprehensive environmental data for informed farming decisions_
 
@@ -108,7 +108,7 @@ Get inspired by real success stories from verified farmers in your region:
 
 <div align="center">
 
-![Success Stories](pictures/success_stories_spoorthi.png)
+![Success Stories](pictures/success_stories_spoorthi.jpeg)
 
 _Spoorthi Section: Learn from farmers who achieved 15-40% yield improvements_
 
@@ -130,7 +130,7 @@ Never miss critical farming advice:
 
 <div align="center">
 
-![Tip of the Day](pictures/tip_of_day.png)
+![Tip of the Day](pictures/tip_of_day.jpeg)
 
 _Daily tips delivered with context-aware agricultural guidance_
 
@@ -148,7 +148,7 @@ Connect directly with agricultural vendors and suppliers.
 
 <div align="center">
 
-![Home Dashboard](pictures/home_dashboard.png)
+![Home Dashboard](pictures/home_dashboard.jpeg)
 
 _Main Dashboard: 50K+ Farmers | 365 Tips/Year | 12+ Crops Supported_
 
@@ -181,7 +181,7 @@ _Main Dashboard: 50K+ Farmers | 365 Tips/Year | 12+ Crops Supported_
 
 <div align="center">
 
-![Login Screen](pictures/login_screen.png)
+![Login Screen](pictures/login_screen.jpeg)
 
 _Secure Authentication: Welcome back existing users with phone-based login_
 
